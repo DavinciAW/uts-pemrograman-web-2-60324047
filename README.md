@@ -16,3 +16,16 @@ Setelah website berjalan, pengguna dapat melakukan beberapa fungsi utama berikut
 - Menambahkan buku baru dengan menekan tombol “+ Tambahkan Buku”, kemudian mengisi data seperti ID kategori, judul, dan deskripsi buku.
 - Mengedit data buku dengan menekan tombol “Edit”, lalu memperbarui informasi yang diperlukan.
 - Menghapus buku dengan menekan tombol “Delete”. Perlu diperhatikan bahwa proses penghapusan bersifat permanen dan tidak dapat dibatalkan.
+
+Struktur Folder:
+uts_60324047/
+├── config/
+│   └── database.php
+├── index.php
+├── create.php
+├── edit.php
+├── delete.php
+└── uts_60324047.sql (Database SQL)
+
+Link repository:
+https://github.com/DavinciAW/uts-pemrograman-web-2-60324047
