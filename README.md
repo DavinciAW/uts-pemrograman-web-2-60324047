@@ -32,7 +32,7 @@ uts_60324047/
 
 ├── delete.php
 
-└── uts_60324047.sql (Database SQL)
+└── uts_perpustakaan_60324047.sql (Database SQL)
 
 Link repository:
 https://github.com/DavinciAW/uts-pemrograman-web-2-60324047
