@@ -19,12 +19,19 @@ Setelah website berjalan, pengguna dapat melakukan beberapa fungsi utama berikut
 
 Struktur Folder:
 uts_60324047/
+
 ├── config/
+
 │   └── database.php
+
 ├── index.php
+
 ├── create.php
+
 ├── edit.php
+
 ├── delete.php
+
 └── uts_60324047.sql (Database SQL)
 
 Link repository:
